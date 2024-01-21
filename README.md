@@ -1,2 +1,2 @@
-# Card-Matching-Game
+# Simple Card Matching Game
 A Java card matching game that utilizes JavaFX. ... 
