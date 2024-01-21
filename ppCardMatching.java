@@ -1,26 +1,3 @@
-// Jared Reese
-
-/*
-  Dr. Phelps/Liu has allowed students to discuss the algorithm 
-  and/or general concepts about the assignment with other students
-   and to receive limited help on specific topics. However, I 
-	assume full responsibility for the content and integrity of 
-	this assignment. I have developed my own solution to this 
-	assigned project. I have not used or copied (by any means) 
-	another’s work (or portions of it) in order to represent it 
-	as my own including material from the internet. If I used a 
-	common computer, I have remembered to delete the files and 
-	empty the recycle bin. I have destroyed all extra printouts 
-	of my code. I have not shared my code with anyone. I am sole 
-	author of the assignment; however,
-
-I received outside help from the following people:
-
- ......
-
-These are the websites that I used as reference
-*/
-
 import com.phidget22.*;                   // Importing everything utilized.
 import java.util.Scanner;
 import java.io.IOException;
